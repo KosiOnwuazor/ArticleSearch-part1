@@ -7,7 +7,10 @@ Time spent: 2 hours spent in total
 ## Required Features
 
 ## Video Walkthrough
-[[<img src='file:///private/var/folders/vd/3lqv2jyn5h99hqv4qqwmzlfh0000gq/T/a7120ed0c2ec1080ce6483ddea6b73ff/Kapture%202025-03-12%20at%2020.06.55.gif' title='Output' width=' ' alt='Output' />](https://imgur.com/a/bR7Oom5)](https://imgur.com/a/tzTAwRu)
+https://imgur.com/a/tzTAwRu
+![updatedarticlesearch](https://github.com/user-attachments/assets/8cc1eea6-78ca-432d-a007-b57c84703d43)
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
